@@ -13,8 +13,11 @@
 <br>
 
 <!-- Know more about me -->
-<h1 align="center">Know more about me <img src="https://raw.githubusercontent.com/Sagar0-0/Sagar0-0/main/GIF/Earth.gif" width="24px"></h1>
+<h1 align="center">Know more about me <img src="https://raw.githubusercontent.com/Sagar0-0/Sagar0-0/main/GIF/Earth.gif" width="24px">
+</h1>
+
 <br>
+<!-- <img align="right" height="100" width="100" alt="𝙶𝙸𝙵" src="Gif/gold_cat.webp"> -->
 
 - 🤖 **AI & ML Enthusiast**
 - :seedling: **Currently working on PYTHON and SELF DEVELOPMENT**
@@ -22,7 +25,7 @@
 - :eyes: **Looking forward to collaborate and working on interesting problems**
 - :ticket: **I love attending events and talking about technology** 
 - :ear: **Always interested in listening and discussing about new ideas**
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="">
+
 
 <br>
 <!-- Language and Tools -->
@@ -41,6 +44,6 @@
   <img alt="git" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png">&emsp;
   <img alt="GitHub" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png">&emsp;
   <img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&emsp;
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="">
+
 </p>
 
