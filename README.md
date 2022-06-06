@@ -69,3 +69,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ranjeet0302Singh&theme=monokai">&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ranjeet0302Singh&theme=monokai">
 </p>
+
+<!-- Connect with me -->
+<h1 align="center">Connect with me</h1>
+<br>
+<p align="center">Whether you are willing to collaborate or just checking my activity, feel free to connect.</p>
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ranjeet-singh-rawat-764692233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/ranjeetsingh01266/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://t.me/Ranjeet Singh"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
+<p align="center">
+  <a href="mailto:ranjeet843507@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+<!-- Github contribution grid snake -->
+<p align="center"><img alt="Snake GIF" src="https://github.com/Ranjeet0302Singh/Ranjeet0302Singh/blob/output/github-contribution-grid-snake.svg"></p>
