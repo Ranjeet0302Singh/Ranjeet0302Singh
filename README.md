@@ -5,14 +5,20 @@
 
 <!--GitHub Streak-->
 <h1 align="center">
-<img height="30"src="GIF/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="GIF/sparkling-stars.gif">
+<img height="30"src="Gif/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="Gif/sparkling-stars.gif">
 </h1>
-<p align="center"><img alt="Ranjeet0302Singh's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjeet0302Singh&theme=dark&hide_border=true"></p>
+<p align="center"><img alt="Ranjeet0302Singh's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjeet0302Singh&theme=dark&hide_border=true">
+
+
 
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Ranjeet0302Singh&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Ranjeet0302Singh) -->
 
 <!--GitHub Stats-->
-<p align="center"><img alt="Ranjeet0302Singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ranjeet0302Singh&theme=blue-green&hide_border=true"></p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ranjeet0302Singh&theme=dark&hide_border=true"/>
+<!--   most used langs table -->
+    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjeet0302Singh&theme=dark&hide_border=true&layout=compact&hide_border=true" />
+</p>
 <br>
 
 <!-- Know more about me -->
