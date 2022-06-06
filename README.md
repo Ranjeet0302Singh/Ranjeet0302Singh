@@ -15,10 +15,11 @@
 
 <!--GitHub Stats-->
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ranjeet0302Singh&theme=dark&hide_border=true"/>
-<!--   most used langs table -->
-    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjeet0302Singh&theme=dark&hide_border=true&layout=compact&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ranjeet0302Singh&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 </p>
+
+![Ranjeet Singh's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ranjeet0302Singh&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
+
 <br>
 
 <!-- Know more about me -->
@@ -55,4 +56,16 @@
   <img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&emsp;
 <img src="img/header_.png">
 </p>
+<!-- Activity -->
+<h1 align="center">Activity</h1>
+<br>
+<p align="center">While I try to stay consistent, here is what I've put together so far.</p>
+<br>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranjeet0302Singh&theme=monokai">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ranjeet0302Singh&theme=monokai">&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ranjeet0302Singh&theme=monokai">
+</p>
