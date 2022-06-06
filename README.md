@@ -4,6 +4,9 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+and+Artifical+Intelligence+Enthusiast;Front-End+Web+Developer;Computer+Science+Student;Tech+Geek&font=sans-serif&center=true&size=12">
 
 <!--GitHub Streak-->
+<h1 align="center">
+<img height="30"src="GIF/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="GIF/sparkling-stars.gif">
+</h1>
 <p align="center"><img alt="Ranjeet0302Singh's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjeet0302Singh&theme=dark&hide_border=true"></p>
 
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Ranjeet0302Singh&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Ranjeet0302Singh) -->
@@ -44,6 +47,6 @@
   <img alt="git" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png">&emsp;
   <img alt="GitHub" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png">&emsp;
   <img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&emsp;
-
+<img src="img/header_.png">
 </p>
 
