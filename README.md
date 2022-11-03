@@ -5,8 +5,11 @@
 
 <!-- My Badges -->
 <h1 align="center">
+<img height="80" width="70" src="img/left.webp">
   Badges earned by me 
+ <img height="80" width="70" src="img/right.webp">
 </h1>
+[![@ranjeet_0302's Holopin board](https://holopin.me/ranjeet_0302)](https://holopin.io/@ranjeet_0302)
 
 
 <!--GitHub Streak-->
