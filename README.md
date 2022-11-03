@@ -11,7 +11,6 @@
 </h1>
 [![@ranjeet_0302's Holopin board](https://holopin.me/ranjeet_0302)](https://holopin.io/@ranjeet_0302)
 
-
 <!--GitHub Streak-->
 <h1 align="center">
 <img height="30"src="Gif/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="Gif/sparkling-stars.gif">
