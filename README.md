@@ -19,12 +19,16 @@
 <p align="center"><img alt="Ranjeet0302Singh's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjeet0302Singh&theme=dark&hide_border=true">
 
 
-
-<!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Ranjeet0302Singh&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Ranjeet0302Singh) -->
-
+<!-- <p align="center">
+  
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Ranjeet0302Singh&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Ranjeet0302Singh)
+  
+</p> -->
 <!--GitHub Stats-->
 <p align="center">
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ranjeet0302Singh&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  
 </p>
 
 ![Ranjeet Singh's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ranjeet0302Singh&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
