@@ -1,7 +1,13 @@
 <h1 align="center">Hi there, I'm Ranjeet Singh Rawat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <!-- Typing Widget -->
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+and+Artifical+Intelligence+Enthusiast;Front-End+Web+Developer;Computer+Science+Student;Tech+Geek&font=sans-serif&center=true&size=12">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Web+Development+Enthusiast;Front-End+Web+Developer;Computer+Science+Student;Tech+Geek&font=sans-serif&center=true&size=12">
+
+<!-- My Badges -->
+<h1 align="center">
+  Badges earned by me 
+</h1>
+
 
 <!--GitHub Streak-->
 <h1 align="center">
@@ -29,9 +35,9 @@
 <br>
 <!-- <img align="right" height="100" width="100" alt="𝙶𝙸𝙵" src="Gif/gold_cat.webp"> -->
 
-- 🤖 **AI & ML Enthusiast**
-- :seedling: **Currently working on PYTHON and SELF DEVELOPMENT**
-- 👨‍💻 **Ask me about Competitive and Logical Programming**
+- 🤖 **Web Development Enthusiast**
+- :seedling: **Currently working on React and SELF DEVELOPMENT**
+- 👨‍💻 **Ask me about Competitive , Logical Programming and Web-Dev**
 - :eyes: **Looking forward to collaborate and working on interesting problems**
 - :ticket: **I love attending events and talking about technology** 
 - :ear: **Always interested in listening and discussing about new ideas**
