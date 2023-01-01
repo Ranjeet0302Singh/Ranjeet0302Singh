@@ -16,7 +16,7 @@
 <h1 align="center">
 <img height="30"src="Gif/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="Gif/sparkling-stars.gif">
 </h1>
-<p align="center"><img alt="Ranjeet0302Singh's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjeet0302Singh&theme=dark&hide_border=true">
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjeet0302Singh&theme=dark&hide_border=true" width=700px>
 
 
 <!-- <p align="center">
