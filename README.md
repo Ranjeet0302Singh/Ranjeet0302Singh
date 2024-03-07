@@ -37,11 +37,11 @@
 
 
 <br>
-<h1 align="center"> LeetCode Status Card </h1>
+<!-- <h1 align="center"> LeetCode Status Card </h1>
 <p align="center">
   <a href="(https://leetcode.com/ranjeetsingh0302/)" target="_blank">
     <img width=60%h height=80% src="https://leetcode.card.workers.dev/?username=ranjeetsingh0302&theme=dark&font=source_code_pro&border_radius=10"/>
-  </a>
+  </a> -->
 
 <br>
 
