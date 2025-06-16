@@ -78,5 +78,9 @@ I’m a **Full-Stack Developer** with 2 years of experience in building scalable
 
 ### 🐍 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github.com/Ranjeet0302Singh/Ranjeet0302Singh/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ranjeet0302Singh/Ranjeet0302Singh/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ranjeet0302Singh/Ranjeet0302Singh/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://github.com/Ranjeet0302Singh/Ranjeet0302Singh/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
